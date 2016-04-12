@@ -21,6 +21,9 @@ Deep Learning Seminar
 |  2   |  3/29 | 6. Deep Feedfowrd Network - 6.1 Example: Learning XOR       | 김무성 |  [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/ch06/06_Deep_FeedForward_Network.ipynb) |
 |  3   |  4/7  | 6. Deep Feedfowrd Network - 6.2 Gradient-Based Learning / 6.2.1 Cost Functions  | 김무성      |  [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/ch06/06_Deep_FeedForward_Network.ipynb#6.2-Gradient-Based-Learning) |
 |  4   |   4/12 | 6. Deep Feedfowrd Network - 6.2 Gradient-Based Learning / 6.2.2 Output Units  | 김무성      |  [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/ch06/06_Deep_FeedForward_Network.ipynb#6.2.2-Output-Units) |
+|  5   |   4/19 | 6. Deep Feedfowrd Network ~ 6.5 Back-Propagation and Other Diﬀerentiation Algorithms  | 김무성      |  발표자료 |
+|     |    | (유다시티) L1 : Machine Learning to Deep Learning  | 이재홍      |  발표자료 |
+
 
 
 # sec. 2 - Deep Learning 실습 
