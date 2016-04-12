@@ -9,8 +9,8 @@ Deep Learning Seminar
 * 파이썬 기초문법 알고 있을 것(능숙할 필요는 없습니다. 혹은 하면서 익혀도 됩니다)
 
 교재 & 강의
-* (벤지오의 Deep Learning Boook) 
-* (Udacity의 Deep Learning Course)
+* 벤지오의 Deep Learning Boook - http://www.deeplearningbook.org/
+* Udacity의 Deep Learning Course - https://www.udacity.com/course/deep-learning--ud730
 
 
 
