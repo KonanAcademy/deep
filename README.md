@@ -25,6 +25,10 @@ Deep Learning Seminar
 |     |    | (유다시티) L1 : Machine Learning to Deep Learning  | 이재홍      |  발표자료 |
 |  6   |   4/26 | 6. Deep Feedfowrd Network ~ 6.5 Back-Propagation and Other Diﬀerentiation Algorithms  | 김무성      |  발표자료 |
 |     |    | (유다시티) L2 : Deep Neural Network  | 이재홍      |  발표자료 |
+|  7   |    |   |       |   |
+|  8   |    |   |       |   |
+|  9   |    |   |       |   |
+|  10   |    |   |       |   |
 
 
 
@@ -33,5 +37,6 @@ Deep Learning Seminar
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |
 |  1   |  4/12 | 01. mnist beginning                                         | 유주원 | [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/code/01_mnist_beginning/mnist_beginning.ipynb) |
 |  2   |  5/3 | CNN                                         | 유주원 |  |
-|  3   |  5/10 | word2vec                                         | 전주현 |  |
-|  4   |  5/31 | 추천                                         | 안동환 |  |
+|  3   |   | 추천                                         | 안동환 |  |
+|  4   |  7/5 | Pre-trained Model + CNN                                         | 김무성 |  |
+
