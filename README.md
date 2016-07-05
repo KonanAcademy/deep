@@ -37,6 +37,6 @@ Deep Learning Seminar
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |
 |  1   |  4/12 | 01. mnist beginning                                         | 유주원 | [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/code/01_mnist_beginning/mnist_beginning.ipynb) |
 |  2   |  5/3 | CNN                                         | 유주원 |  |
-|  3   |   | 추천                                         | 안동환 |  |
+|  3   |  6/14 | 추천                                         | 안동환 |  |
 |  4   |  7/5 | Pre-trained Model + CNN                                         | 김무성 |  |
 
