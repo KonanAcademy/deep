@@ -21,7 +21,32 @@ Deep Learning Seminar
 |      |      | 1.2.2 Increasing Dataset Sizes                              | 유주원 |[발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch01/ch01_2_2/01_Introduction_1.2.2-1.2.3.ipynb#Chapter-1.2.2-Increasing-DataSet-Sizes)   |
 |      |      | 1.2.3 Increasing Model Sizes                                | 유주원 | [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch01/ch01_2_2/01_Introduction_1.2.2-1.2.3.ipynb#Chapter-1.2.3-Increasing-Model-Sizes) |
 |      |      | 1.2.4 Increasing Accuracy, Complexity and Real-World Impact | 김무성 | [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch01/ch01_2_4/01_2_4_Increasing_Accuracy_Complexity_and_Real-World_Impact.ipynb)  |
-
+|  2   | 9/13 | 2.1 Scalars, Vectors, Matrices and Tensors                 | 윤덕호 |   |
+|      |      | 2.2 Multiplying Matrices and Vectors                  | 윤덕호 |   |
+|      |      | 2.3 Identity and Inverse Matrices                  | 유주원 |   |
+|      |      | 2.4 Linear Dependence and Span                   | 유주원 |   |
+|      |      | 2.5 Norms                  | 오창민 |   |
+|      |      | 2.6 Special Kinds of Matrices and Vectors                  | 오창민 |   |
+|      |      | 2.7 Eigendecomposition                  | 안동환 |   |
+|      |      | 2.8 Singular Value Decomposition                  | 안동환 |   |
+|      |      | 2.9 The Moore-Penrose Pseudoinverse                  | 강현수 |   |
+|      |      | 2.10 The Trace Operator                  | 강현수 |   |
+|      |      | 2.11 The Determinant                  | 김무성 |   |
+|      |      | 2.12 Example: Principal Components Analysis                  | 김무성 |   |
+| 3    | 9/20 | 3.1 Why Probability?                  | 안동환 |   |
+|      |      | 3.2 Random Variables                  | 안동환 |   |
+|      |      | 3.3 Probability Distributions                  | 김무성 |   |
+|      |      | 3.4 Marginal Probability                  | 김무성 |   |
+|      |      | 3.5 Conditional Probability                  | 강현수 |   |
+|      |      | 3.6 The Chain Rule of Conditional Probabilities                  | 강현수 |   |
+|      |      | 3.7 Independence and Conditional Independence                  | 오창민 |   |
+|      |      | 3.8 Expectation, Variance and Covariance                  | 오창민 |   |
+|      |      | 3.9 Common Probability Distributions                  | 윤덕호 |   |
+|      |      | 3.10 Useful Properties of Common Functions                  | 윤덕호 |   |
+|      |      | 3.11 Bayes’ Rule                  | 이문기 |   |
+|      |      | 3.12 Technical Details of Continuous Variables                  | 이문기 |   |
+|      |      | 3.13 Information Theory                  | 유주원 |   |
+|      |      | 3.14 Structured Probabilistic Models                  | 유주원 |   |
 
 --------------------------------
 
