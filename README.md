@@ -45,8 +45,8 @@ Deep Learning Seminar
 |      |      | 3.10 Useful Properties of Common Functions                  | 윤덕호 |   |
 |      |      | 3.11 Bayes’ Rule                  | 이문기 |   |
 |      |      | 3.12 Technical Details of Continuous Variables                  | 이문기 |   |
-|      |      | 3.13 Information Theory                  | 유주원 |   |
-|      |      | 3.14 Structured Probabilistic Models                  | 유주원 |   |
+|      |      | 3.13 Information Theory                  | 유주원 |[발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch03/ch03_13_14/03_Probability_And_Information_Theory.ipynb#Chapter-3.13-Information-Theory)   |
+|      |      | 3.14 Structured Probabilistic Models                  | 유주원 | [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch03/ch03_13_14/03_Probability_And_Information_Theory.ipynb#Chapter-3.14-Structured-Probabilistic-Model)  |
 
 --------------------------------
 
