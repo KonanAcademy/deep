@@ -17,7 +17,7 @@ Deep Learning Seminar
 |  1   |  9/6 | 1. Introduction                                             | 윤덕호 |   |
 |      |      | 1.1 Who should read this book?                              | 안동환 |   |
 |      |      | 1.2 Historical trends in deep learning                      | 안동환 |   |
-|      |      | 1.2.1 The Many Names and Changing Fortunes of Neural Networks | 오창민 |   |
+|      |      | 1.2.1 The Many Names and Changing Fortunes of Neural Networks | 오창민 |[발표자료](https://github.com/KonanAcademy/deep/blob/master/seminar/season02/ch01/DLBook_1.2.1.pdf)|
 |      |      | 1.2.2 Increasing Dataset Sizes                              | 유주원 |[발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch01/ch01_2_2/01_Introduction_1.2.2-1.2.3.ipynb#Chapter-1.2.2-Increasing-DataSet-Sizes)   |
 |      |      | 1.2.3 Increasing Model Sizes                                | 유주원 | [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch01/ch01_2_2/01_Introduction_1.2.2-1.2.3.ipynb#Chapter-1.2.3-Increasing-Model-Sizes) |
 |      |      | 1.2.4 Increasing Accuracy, Complexity and Real-World Impact | 김무성 | [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch01/ch01_2_4/01_2_4_Increasing_Accuracy_Complexity_and_Real-World_Impact.ipynb)  |
