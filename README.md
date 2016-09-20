@@ -25,8 +25,8 @@ Deep Learning Seminar
 |      |      | 2.2 Multiplying Matrices and Vectors                  | 윤덕호 |   |
 |      |      | 2.3 Identity and Inverse Matrices                  | 유주원 |[발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch02/ch02_3/02_Linear_Algebra_2.3-2.4.ipynb#Chapter-2.3-Identity-and-Inverse-Matrices)   |
 |      |      | 2.4 Linear Dependence and Span                   | 유주원 | [발표자료](http://nbviewer.jupyter.org/github/KonanAcademy/deep/blob/master/seminar/season02/ch02/ch02_3/02_Linear_Algebra_2.3-2.4.ipynb#Chapter-2.4-Linear-Dependence-and-Span)  |
-|      |      | 2.5 Norms                  | 오창민 |   |
-|      |      | 2.6 Special Kinds of Matrices and Vectors                  | 오창민 |   |
+|      |      | 2.5 Norms                  | 오창민 |[발표자료](https://github.com/KonanAcademy/deep/blob/master/seminar/season02/ch02/DLBook_2.5~6.pdf) |
+|      |      | 2.6 Special Kinds of Matrices and Vectors                  | 오창민 |[발표자료](https://github.com/KonanAcademy/deep/blob/master/seminar/season02/ch02/DLBook_2.5~6.pdf)   |
 |      |      | 2.7 Eigendecomposition                  | 안동환 |   |
 |      |      | 2.8 Singular Value Decomposition                  | 안동환 |   |
 |      |      | 2.9 The Moore-Penrose Pseudoinverse                  | 강현수 |   |
@@ -40,7 +40,7 @@ Deep Learning Seminar
 |      |      | 3.5 Conditional Probability                  | 강현수 |   |
 |      |      | 3.6 The Chain Rule of Conditional Probabilities                  | 강현수 |   |
 |      |      | 3.7 Independence and Conditional Independence                  | 오창민 |   |
-|      |      | 3.8 Expectation, Variance and Covariance                  | 오창민 |   |
+|      |      | 3.8 Expectation, Variance and Covariance                  | 오창민 |[발표자료](https://github.com/KonanAcademy/deep/blob/29f0c84455714d7b32eddc803b310ad6cab7515e/seminar/season02/ch03/DLbook_3.8.pdf)|
 |      |      | 3.9 Common Probability Distributions                  | 윤덕호 |   |
 |      |      | 3.10 Useful Properties of Common Functions                  | 윤덕호 |   |
 |      |      | 3.11 Bayes’ Rule                  | 이문기 |   |
